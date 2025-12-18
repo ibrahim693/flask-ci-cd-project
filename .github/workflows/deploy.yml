@@ -9,7 +9,7 @@ on:
 
 env:
   DOCKER_IMAGE_NAME: flask-app
-  DOCKER_HUB_USERNAME: babyqaziyal
+  DOCKER_HUB_USERNAME: ibrahim693
 
 jobs:
   build-and-deploy:
